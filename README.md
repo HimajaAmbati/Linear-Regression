@@ -1,8 +1,8 @@
 Linear Regression
 
-# 📈 Linear Regression — My First ML Model
+# 📈 Linear Regression 
 
-This folder contains my work on **Linear Regression**, one of the most fundamental algorithms in Machine Learning.  
+This folder contains my work on **Linear Regression**, one of the most fundamental algorithms in Machine Learning.It is also a supervised learning algorithm.
 I implemented and explored it using the **House Price Prediction Dataset** from Kaggle.
 
 ---
