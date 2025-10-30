@@ -14,13 +14,9 @@ I implemented and explored it using the **House Price Prediction Dataset** from 
 - Linear Regression finds the **best-fitting line** that minimizes the error between actual and predicted outputs.
 
 ### ⚙️ Math Behind It
-\[
-\hat{y} = w_0 + w_1x_1 + w_2x_2 + ... + w_nx_n
-\]
-\[
-\text{MSE} = \frac{1}{n}\sum_{i=1}^n (y_i - \hat{y_i})^2
-\]
-
+         y=m*x+b
+         w=w-a*(dL/dw)
+         b=b-a*(dL/db)
 ### 🔁 Training Method
 - Implemented **Gradient Descent** manually to minimize the loss.
 - Learned how **learning rate (α)** affects convergence.
